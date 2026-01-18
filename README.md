@@ -14,7 +14,7 @@
 
 ### [Paper X Trading](https://github.com/jeetnik/exness)
 
-<a href="https://YOUR-WEBSITE-URL.com">
+<a href="https://www.trade.saijeet.me/">
 <img src="paper-x-trading.png" width="100%" alt="Paper X Trading Preview"/>
 </a>
 
@@ -27,7 +27,7 @@
 
 ### [Slate AI](https://github.com/jeetnik/Slate)
 
-<a href="https://YOUR-SLATE-WEBSITE-URL.com">
+<a href="https://100x-dev-slate.vercel.app/">
 <img src="slate-ai.png" width="100%" alt="Slate AI Preview"/>
 </a>
 
