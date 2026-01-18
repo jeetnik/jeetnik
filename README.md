@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=Saijeet%20Nikam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Web3%20Enthusiast%20|%20AI%20Builder&descAlignY=52&descSize=18"/>
+# Saijeet Nikam
 
 </div>
 
@@ -9,9 +8,9 @@
 
 ## Proof of Work
 
-<table>
+<table bgcolor="#000000">
 <tr>
-<td width="33%" bgcolor="#0d1117">
+<td width="33%" bgcolor="#000000">
 
 ### [Paper X Trading](https://github.com/jeetnik/exness)
 
@@ -24,7 +23,7 @@
 `Next.js` `React` `Express` `PostgreSQL` `WebSocket` `Docker` `Redis` `AWS`
 
 </td>
-<td width="33%" bgcolor="#0d1117">
+<td width="33%" bgcolor="#000000">
 
 ### [Slate AI](https://github.com/jeetnik/Slate)
 
@@ -37,7 +36,7 @@
 `Turborepo` `TypeScript` `React` `AI` `Next.js`
 
 </td>
-<td width="33%" bgcolor="#0d1117">
+<td width="33%" bgcolor="#000000">
 
 ### [Snake & Ladder](https://github.com/jeetnik/sl-frontend)
 
@@ -53,7 +52,7 @@
 </tr>
 
 <tr>
-<td width="33%" bgcolor="#0d1117">
+<td width="33%" bgcolor="#000000">
 
 ### [Devs AI](https://github.com/jeetnik/Devs-AI)
 
@@ -66,7 +65,7 @@
 `Next.js` `AI/ML` `TypeScript` `Vercel`
 
 </td>
-<td width="33%" bgcolor="#0d1117">
+<td width="33%" bgcolor="#000000">
 
 ### [Satsurance](https://github.com/Satsurance/canisters)
 
@@ -79,7 +78,7 @@
 `Rust` `ICP` `ckBTC` `DeFi` `Smart Contracts`
 
 </td>
-<td width="33%" bgcolor="#0d1117">
+<td width="33%" bgcolor="#000000">
 
 ### [Voting DApp](https://github.com/jeetnik/voting-dapp)
 
