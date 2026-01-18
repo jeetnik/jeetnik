@@ -3,9 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saijeet%20Nikam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Web3%20Enthusiast%20|%20AI%20Builder&descAlignY=52&descSize=18"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=600&height=60&lines=Building+the+future+of+Web3+%26+AI;Crafting+beautiful+%26+functional+experiences" alt="Typing SVG" /></a>
-
 <!-- Social Badges -->
 <p>
 <a href="https://github.com/jeetnik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -16,7 +13,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Proof of Work
 
 <table>
 <tr>
